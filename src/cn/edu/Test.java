@@ -1,4 +1,4 @@
-package cn.edu.bupt;
+package cn.edu;
 
 public class Test {
 }
